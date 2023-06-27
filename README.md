@@ -11,3 +11,20 @@ This Analysis focuses on the Canadian immigration data.
 ![Data Preview](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%201/images/DataSnapshot.png)
 
 The Canada Immigration dataset can be fetched from <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Canada.xlsx?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDV0101ENSkillsNetwork20297740-2021-01-01">here</a>.
+
+
+## Table of Contents
+
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+1.  [Exploring Datasets with *pandas*](#0)<br>
+
+1.1 [The Dataset: Immigration to Canada from 1980 to 2013](#2)<br>
+1.2 [*pandas* Basics](#4) <br>
+1.3 [*pandas* Intermediate: Indexing and Selection (Slicing)](#6) <br>
+2\. [Visualizing Data using Matplotlib](#8) <br>
+2.1 [Matplotlib: Standard Python Visualization Library](#10) <br>
+3\. [Line Plots](#12)
+
+</div>
+
