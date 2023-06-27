@@ -41,16 +41,19 @@ In 2010, Haiti suffered a catastrophic magnitude 7.0 earthquake. The quake cause
 
 **Question:** Plot a line graph of immigration from Haiti using `df.plot()`.
 We can clearly notice how number of immigrants from Haiti spiked up from 2010 as Canada stepped up its efforts to accept refugees from Haiti.
+
 ![image](https://github.com/IkChristine/Canadian-Immigration-Data-Analysis-and-Vizualization/assets/104997783/bf19c856-6b8d-4bed-ae59-fd7a587db75a)
 
 
 **Question:** Let's compare the number of immigrants from India and China from 1980 to 2013.
 China and India have very similar immigration trends through the years.
+
 ![image](https://github.com/IkChristine/Canadian-Immigration-Data-Analysis-and-Vizualization/assets/104997783/7c9a453b-2ab7-42d0-8367-bb7742ad050a)
 
 
 **Question:** Compare the trend of top 5 countries that contributed the most to immigration to Canada.
 The spike of Philippines migration to Canada in 2010 surpassed India.
+
 ![image](https://github.com/IkChristine/Canadian-Immigration-Data-Analysis-and-Vizualization/assets/104997783/63d2258d-aeec-40aa-9d85-aa95685d8b6e)
 
 
