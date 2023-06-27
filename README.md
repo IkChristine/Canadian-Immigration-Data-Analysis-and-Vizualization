@@ -35,7 +35,9 @@ The Canada Immigration dataset can be fetched from <a href="https://cf-courses-d
 2\. [Visualizing Data using Matplotlib](#8) <br>
 2.1 [Matplotlib: Standard Python Visualization Library](#10) <br>
 3\. [Line Plots](#12)
-**Let's start with a case study:**
+
+
+**Case study:**
 
 In 2010, Haiti suffered a catastrophic magnitude 7.0 earthquake. The quake caused widespread devastation and loss of life and about three million people were affected by this natural disaster. As part of Canada's humanitarian effort, the Government of Canada stepped up its effort in accepting refugees from Haiti. We can quickly visualize this effort using a `Line` plot:
 
