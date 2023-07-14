@@ -18,7 +18,7 @@ This Analysis focuses on the Canadian immigration data.
 
 ![Data Preview](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/labs/Module%201/images/DataSnapshot.png)
 
-The Canada Immigration dataset can be fetched from <a href="https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2015_migration_flow_totals.xlsx ">here</a>.
+The Canada Immigration dataset can be fetched from <a href="https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2015_migration_flow_totals.xlsx">here</a>.
 
 
 [Exploring Datasets with *pandas*]<br>
