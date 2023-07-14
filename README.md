@@ -1,5 +1,5 @@
 # Canadian-Immigration-Data-Analysis-and-Vizualization
-Immigration to Canada from 1980 to 2013
+Time Series analysis of Immigration to Canada from 1980 to 2013.
 
 <p>&nbsp;</p>
 
