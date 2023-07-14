@@ -6,9 +6,20 @@ Immigration to Canada from 1980 to 2013
 ## Table of Contents
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
+
+1.  [Exploring Datasets with *pandas*](#0)<br>
+1.1 [The Dataset: Immigration to Canada from 1980 to 2013](#2)<br>
+1.2 [*pandas* Basics](#4) <br>
+1.3 [*pandas* Intermediate: Indexing and Selection](#6) <br>
+2\. [Visualizing Data using Matplotlib](#8) <br>
+2.1 [Matplotlib: Standard Python Visualization Library](#10) <br>
+3\. [Line Plots](#12)
+
+</div>
+
 <p>&nbsp;</p>
 
-[The Dataset: Immigration to Canada from 1980 to 2013]<br>
+The Dataset: Immigration to Canada from 1980 to 2013
 
 Dataset Source: International migration flows to and from selected countries - The 2015 revision
 https://www.un.org/development/desa/pd/data/international-migration-flows 
